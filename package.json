@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-georgia-archives",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "National Archives of Georgia MCP — the three catalogues the archives publish.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "georgia-archives",
     "gatewaySlug": "georgia-archives",
-    "sourceHash": "v1-33c83f09b8ef6a835ace9af4d72d92d954a6b4c40062440b5545573c250a7557",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-797734ed33e605cb64d85f1ef61b9c5b1c7b6a8c6027391c52594ff608738a88",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
